@@ -1,6 +1,6 @@
 {
   "name": "fluig-auth",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "Serviço angular para consumo de APIs no Fluig",
   "author": "Gabriel Nascimento",
