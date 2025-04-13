@@ -1,0 +1,28 @@
+{
+  "name": "fluig-auth",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Serviço angular para consumo de APIs no Fluig",
+  "author": "Gabriel Nascimento",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielgnsilva/fluig-auth.git"
+  },
+  "keywords": [
+    "tag1",
+    "tag2"
+  ],
+  "bugs": {
+    "url": "https://github.com/gabrielgnsilva/fluig-auth/issues"
+  },
+  "homepage": "https://github.com/gabrielgnsilva/fluig-auth#readme",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "oauth-1.0a": "^2.2.6"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
